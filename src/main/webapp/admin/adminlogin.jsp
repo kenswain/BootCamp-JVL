@@ -60,3 +60,6 @@ if(request.getParameter("Login")!=null)
 </form>
 
  <%@ include file="/footer.jsp" %>
+
+ //**//
+ 
